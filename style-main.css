@@ -18,6 +18,7 @@ a:active {
 #title {
     color: #003f9e;
     font-size: 40px;
+    font-weight: bold;
 }
 
 #headerlinks {
